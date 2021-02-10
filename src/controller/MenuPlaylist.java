@@ -1,7 +1,5 @@
 package controller;
 
-import javafx.animation.TranslateTransition;
-import javafx.beans.binding.Bindings;
 import javafx.collections.FXCollections;
 import javafx.collections.MapChangeListener;
 import javafx.collections.ObservableList;
