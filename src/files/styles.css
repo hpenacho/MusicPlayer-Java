@@ -1,0 +1,78 @@
+.barTop{
+    -fx-background-color: #2C2C2C;
+    -fx-border-color: black;
+    -fx-border-width: 0px 0px 1px 0px
+}
+
+.barBottom{
+-fx-background-color: #2C2C2C;
+}
+
+.infoPane{
+-fx-background-color: #C4E5FF;
+}
+
+.panePlayer{
+
+    -fx-background-color: #080808;
+    -fx-border-color: black;
+    -fx-border-width: 0px 1px 0px 0px
+}
+
+.playlistSectionPane{
+-fx-background-color: #0E0E0E;
+}
+
+.playlistPane{
+-fx-background-color: #2C2C2C;
+}
+
+.playlistPane2{
+-fx-base: #454545;
+-fx-border-color: gray;
+}
+
+.musicProgressBar{
+-fx-accent: red;
+-fx-base: #898989;
+}
+
+.button{
+-fx-background-color: transparent;
+-fx-background-radius: 20px;
+}
+
+.button:hover{
+-fx-background-color: #8187B7;
+}
+
+.togglebutton{
+-fx-background-color: transparent;
+-fx-background-radius: 20px;
+}
+
+.togglebutton:hover{
+-fx-background-color: #8187B7;
+}
+
+.searchPlaylist{
+-fx-background-color: gray;
+-fx-background-radius: 4px;
+-fx-base: gray;
+-fx-base-radius: 20px;
+-fx-accent: #4A6352;
+}
+
+.volumeSlider{
+
+}
+
+.buttonsPane{
+-fx-background-color: #1E1E1E;
+-fx-border-color: black;
+-fx-border-radius: 17px;
+-fx-background-radius: 17px;
+}
+
+
+

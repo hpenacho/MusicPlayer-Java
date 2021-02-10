@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.PasswordField?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.effect.InnerShadow?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane style="-fx-background-color: linear-gradient(to right bottom, #000000, #121212, #1e1e1e, #292929, #353535, #353535, #353535, #353535, #292929, #1e1e1e, #121212, #000000);" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controller.Login">
+    <children>
+        <TextField fx:id="tb_nome" alignment="CENTER" layoutX="43.0" layoutY="110.0" prefHeight="25.0" prefWidth="192.0" promptText="Username" />
+        <PasswordField fx:id="tb_password" alignment="CENTER" layoutX="43.0" layoutY="142.0" prefHeight="25.0" prefWidth="192.0" promptText="Password" />
+        <Button fx:id="btn_login" layoutX="95.0" layoutY="188.0" mnemonicParsing="false" onMouseClicked="#login_mouseClick" prefHeight="31.0" prefWidth="87.0" style="-fx-background-color: gray;" text="Login" textAlignment="CENTER">
+            <font>
+                <Font name="System Bold" size="14.0" />
+            </font>
+        </Button>
+        <Button fx:id="btn_register" layoutX="90.0" layoutY="227.0" mnemonicParsing="false" onMouseClicked="#register_mouseClick" prefHeight="31.0" prefWidth="98.0" style="-fx-background-color: gray;" text="Create Account" textAlignment="CENTER" textFill="WHITE">
+         <font>
+            <Font size="11.0" />
+         </font>
+        </Button>
+        <Label alignment="CENTER" layoutX="84.0" layoutY="17.0" text="Login Menu" textFill="WHITE">
+            <font>
+                <Font size="21.0" />
+            </font>
+        </Label>
+        <Label alignment="CENTER" layoutX="2.0" layoutY="281.0" prefHeight="25.0" prefWidth="271.0" text="Project made by Hugo Penacho TPSI-CAS-0919" textFill="WHITE">
+            <font>
+                <Font size="11.0" />
+            </font>
+        </Label>
+        <Label fx:id="lbl_test" alignment="CENTER" layoutX="43.0" layoutY="165.0" prefHeight="17.0" prefWidth="192.0">
+            <font>
+                <Font size="11.0" />
+            </font></Label>
+      <ImageView layoutX="123.0" layoutY="55.0">
+         <image>
+            <Image url="@../files/user(1).png" />
+         </image>
+      </ImageView>
+
+
+    </children>
+    <opaqueInsets>
+        <Insets />
+    </opaqueInsets>
+   <effect>
+      <InnerShadow />
+   </effect>
+</AnchorPane>
