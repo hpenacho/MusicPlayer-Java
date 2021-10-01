@@ -66,7 +66,7 @@ MIT
 
 ---
 
-<p align="center" width="150%">
+<p align="center" width="100%">
   <a href="https://github.com/hpenacho"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"></a> 
   <a href="https://linkedin.com/in/hugopenacho/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a> 
 </p>
