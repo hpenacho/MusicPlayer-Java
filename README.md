@@ -1,4 +1,4 @@
-<h4 align="center">A feature rich music player developed in Java, as part of an academic project, preserved for historical purposes.</h4>
+<h4 align="center">A feature rich music player developed in Java.</h4>
 
 <p align="center">
   <a href="#key-features">Key Features</a> •
@@ -12,6 +12,8 @@
     <img src="/readmeFiles/fastDemo.apng">
 </p>
 
+<h3> This was an academic project during my programming studies, looking back there are a few things I would do differently however i've decided to upload this project as is, so I can chart my progress. </h3>
+
 ## Key Features
 
 * Plays music
@@ -19,7 +21,7 @@
   - This functionality uses the [MediaPlayer](https://docs.oracle.com/javafx/2/api/javafx/scene/media/MediaPlayer.html) javaFX class to implement all music control features.
 
 * Collects file metaData
-  - Available music metadata is presented in the app within collapsible menu's, this includes album art if available.
+  - Available music metadata is presented in the app within collapsible menus, this includes album art if available.
 
 * "Drag & Drop" music drag system
   - This system simplifies adding new songs to a players playlist, a simple file drag retains and saves the filepath to the database.
@@ -43,7 +45,7 @@
 - Otherwise, a user will first need to create and name a playlist by clicking the appropriate buttons.
 - Next he simply needs to drag and drop any music files to the music board.
 - At this point, click any desired music to automatically start playing it.
-- Available metadata such as album cover art, music genre, music name will be loaded into collapsible menu's so the user can consult them at his leisure.
+- Available metadata such as album cover art, music genre, music name will be loaded into collapsible menus so the user can consult them at his leisure.
 - Click any of the music control options at any time, such as volume control, backtrack or fastforward in the song, mute, next or previous song, repeat and more.
 
 ## Techs used
