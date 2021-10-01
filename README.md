@@ -17,7 +17,7 @@
 
 * Plays music
   - All the essential controls you'd expect from a music player are implemented, namely play, stop, pause, mute, previous or next track, repeat, volume control, and more. 
-  - This functionality uses the [a MediaPlayer](https://docs.oracle.com/javafx/2/api/javafx/scene/media/MediaPlayer.html) javaFX class to implement all music control features.
+  - This functionality uses the [MediaPlayer](https://docs.oracle.com/javafx/2/api/javafx/scene/media/MediaPlayer.html) javaFX class to implement all music control features.
 
 * Collects file metaData
   - Available music metadata is presented in the app within collapsible menu's, this includes album art if available.
@@ -56,12 +56,6 @@ This project uses the following technologies:
 - JavaFX
 - Microsoft SQL Server
 - MSSQL JDBC
-
-## Feature demonstration
-
-<p align="center" width="100%" controls>
-https://user-images.githubusercontent.com/68301369/135676350-5c6570e3-a822-44d1-b886-f8dc3f80270f.mov
-</p>
 
 ## You may also like
 
