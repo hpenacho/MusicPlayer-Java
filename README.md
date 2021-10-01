@@ -58,7 +58,7 @@ This project uses the following technologies:
 
 ## You may also like
 
-- [exampleApp](githubappUrlHere) - desc
+- [SimpleCalculator](https://github.com/hpenacho/SimpleCalculator-Java) - A simple calculator built using Java.
 
 ## License
 
