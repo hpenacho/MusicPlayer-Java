@@ -8,7 +8,7 @@
   <a href="#license">License</a>
 </p>
 
-![quickDemo](https://raw.githubusercontent.com/readmeFiles/quickDemo)
+![quickDemo](/readmeFiles/quickDemo)
 
 ## Key Features
 
