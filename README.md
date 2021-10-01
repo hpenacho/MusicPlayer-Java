@@ -10,7 +10,7 @@
 
 <!--![quickDemo](/readmeFiles/quickDemo.apng) -->
 <p align="center" width="100%">
-    <img width="33%" src="/readmeFiles/quickDemo.apng">
+    <img src="/readmeFiles/quickDemo.apng">
 </p>
 
 ## Key Features
