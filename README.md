@@ -37,7 +37,7 @@ This software uses the following technologies source packages:
 ## Feature demonstration
 
 <p align="center" width="100%" controls>
-    <video src="/readmeFiles/featureDemo.webm.mov" type="video/mov">
+https://user-images.githubusercontent.com/68301369/135676350-5c6570e3-a822-44d1-b886-f8dc3f80270f.mov
 </p>
 
 ## You may also like
