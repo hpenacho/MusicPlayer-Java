@@ -9,6 +9,7 @@
 </p>
 
 ![quickDemo](/readmeFiles/quickDemo)
+![login](/readmeFiles/login)
 
 ## Key Features
 
