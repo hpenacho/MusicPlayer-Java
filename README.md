@@ -4,12 +4,11 @@
   <a href="#key-features">Key Features</a> •
   <a href="#how-to-use">How To Use</a> •
   <a href="#credits">Techs Used</a> •
-  <a href="#You may also like...">You may also like</a> •
+  <a href="#You may also like">You may also like</a> •
   <a href="#license">License</a>
 </p>
 
-![quickDemo](/readmeFiles/quickDemo)
-![login](/readmeFiles/login)
+![quickDemo](/readmeFiles/quickDemo.apng)
 
 ## Key Features
 
@@ -32,7 +31,7 @@ This software uses the following technologies source packages:
 - Microsoft SQL Server
 - MSSQL JDBC
 
-## You may also like...
+## You may also like
 
 - [exampleApp](githubappUrlHere) - desc
 
