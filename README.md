@@ -10,7 +10,7 @@
 </p>
 
 <p align="center" width="100%">
-    <img src="/readmeFiles/quickDemo.apng">
+    <img src="/readmeFiles/fastDemo.apng">
 </p>
 
 ## Key Features
@@ -36,8 +36,8 @@ This software uses the following technologies source packages:
 
 ## Feature demonstration
 
-<p align="center" width="100%">
-    <video src="/readmeFiles/featureDemo.webm">
+<p align="center" width="100%" controls>
+    <video src="/readmeFiles/featureDemo.webm" type="video/webm">
 </p>
 
 ## You may also like
