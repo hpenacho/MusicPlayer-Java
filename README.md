@@ -12,7 +12,7 @@
     <img src="/readmeFiles/fastDemo.apng">
 </p>
 
-<h3> This was an academic project during my programming studies, looking back there are a few things I would do differently however i've decided to upload this project as is, so I can chart my progress. </h3>
+<h5> This was an academic project during my programming studies, looking back there are a few things I would do differently however i've decided to upload this project as is so I can chart my progress. </h3>
 
 ## Key Features
 
