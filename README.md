@@ -8,7 +8,10 @@
   <a href="#license">License</a>
 </p>
 
-![quickDemo](/readmeFiles/quickDemo.apng)
+<!--![quickDemo](/readmeFiles/quickDemo.apng) -->
+<p align="center" width="100%">
+    <img width="33%" src="/readmeFiles/quickDemo.apng">
+</p>
 
 ## Key Features
 
