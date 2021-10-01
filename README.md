@@ -3,8 +3,8 @@
 <p align="center">
   <a href="#key-features">Key Features</a> •
   <a href="#how-to-use">How To Use</a> •
-  <a href="#Techs used">Techs Used</a> •
-  <a href="#You may also like">You may also like</a> •
+  <a href="#Techs-used">Techs Used</a> •
+  <a href="#You-may-also-like">You may also like</a> •
   <a href="#license">License</a>
 </p>
 
