@@ -4,11 +4,11 @@
   <a href="#key-features">Key Features</a> •
   <a href="#how-to-use">How To Use</a> •
   <a href="#Techs-used">Techs Used</a> •
+  <a href="#Feature-demonstration">Feature Demonstration</a> •
   <a href="#You-may-also-like">You may also like</a> •
   <a href="#license">License</a>
 </p>
 
-<!--![quickDemo](/readmeFiles/quickDemo.apng) -->
 <p align="center" width="100%">
     <img src="/readmeFiles/quickDemo.apng">
 </p>
@@ -33,6 +33,12 @@ This software uses the following technologies source packages:
 - JavaFX
 - Microsoft SQL Server
 - MSSQL JDBC
+
+## Feature demonstration
+
+<p align="center" width="100%">
+    <video src="/readmeFiles/featureDemo.webm">
+</p>
 
 ## You may also like
 
