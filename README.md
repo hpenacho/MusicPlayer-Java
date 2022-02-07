@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="#key-features">Key Features</a> •
-  <a href="#how-to-use">How To Use</a> •
+  <a href="#user-flow">How to use</a> •
   <a href="#Techs-used">Techs Used</a> •
   <a href="#You-may-also-like">You may also like</a> •
   <a href="#license">License</a>
@@ -38,7 +38,7 @@
   - The app allows the user to remove specific songs or whole playlists at the click of a button.
   - A confirmation menu will ask the user if he truly wishes to proceed.
 
-## How To Use
+## User Flow
 
 - A user begins by creating a new account if he hasnt already, he then proceeds to login with this information.
 - Upon login, if the user has previously created playlists, those playlists will be automatically loaded.
